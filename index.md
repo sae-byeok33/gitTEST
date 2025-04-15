@@ -1,2 +1,5 @@
-# 간단하게 설정하는 git blog
-### 배경은 나중에
+layout : default
+title : 세팅중인 블로그
+
+# 글 목록
+-[첫번째 글]
